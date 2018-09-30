@@ -1,0 +1,2 @@
+module.exports.EXPLETIVE_RESPONSE = "Oops! Looks like you used an expletive. Please note that swearing is against the terms and conditions of enrichment center.";
+module.exports.GUYS_RESPONSE = "Please consider more inclusive language. Instead of \"guys\", try \"everyone\".";
