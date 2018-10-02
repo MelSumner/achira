@@ -1,5 +1,5 @@
-# achira
-Discord moderation bot for OSS community chat. There are really useful bots already in existence, but this bot is scoped to our specific desired functionality (without the extras). 
+# Achira
+Achira (ah-cheer-ah) is a Discord moderation bot for OSS community chat. There are really useful bots already in existence, but this bot is scoped to our specific desired functionality (without the extras). 
 
 ## intended functionality
 
