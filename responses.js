@@ -2,4 +2,4 @@ module.exports.EXPLETIVE_RESPONSE = "Oops! Looks like you used an expletive. Ple
 module.exports.GUYS_RESPONSE = "Please consider more inclusive language so none of the companion cubes feel left out.";
 module.exports.HELLO_RESPONSE = "Hello and, again, welcome to the Aperture Science computer-aided enrichment center.";
 module.exports.THANK_RESPONSE = "Thank you for participating in this Aperture Science computer-aided enrichment activity.";
-module.exports.CAKE_RESPONSE = "Cake and grief counseling will be available at the conclusion of the test.";
+module.exports.CAKE_RESPONSE = "I respond well to the commands `hello` and `thank`, as well as a few cursewords that I will not be repeating. I also respond to `help`, but you seem to have that covered!";

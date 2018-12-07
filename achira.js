@@ -21,6 +21,8 @@ client.on("message", (message) => {
         message.channel.send(message.author + " " + Responses.HELLO_RESPONSE);
       } else if (messageContent.includes("thank")) {
         message.channel.send(message.author + " " + Responses.THANK_RESPONSE);
+      } else if (messageContent.includes("help")) {
+        message.channel.send(message.author + " " + Responses.HELP_RESPONSE);
       } else {
         message.channel.send(message.author + " " + Responses.CAKE_RESPONSE);
       }
